@@ -1,7 +1,10 @@
 # HelloTrae
 For test Trae.ai
+
 ## Change Log
-2025/03/06
+
+### 2025/03/06
+
 这个是通过Trae AI内置的Claude-4.5-Sonnet进行自动生成
 Builder prompt:
 
